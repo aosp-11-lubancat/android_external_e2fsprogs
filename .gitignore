@@ -23,12 +23,6 @@ asm_types.h
 config.log
 config.status
 cscope.*
-debugfs/extent_cmds.c
-debugfs/debug_cmds.c
-debugfs/debugfs
-debugfs/debugfs.8
-debugfs/extent_cmds.c
-debugfs/tst_set_fields
 doc/libext2fs.aux
 doc/libext2fs.cp
 doc/libext2fs.dvi

@@ -48,8 +48,6 @@ e2fsck/e2fsck.conf.5
 e2fsck/e2fsck.shared
 e2fsck/e2fsck.static
 e2fsck/gen_crc32table
-e2fsck/prof_err.c
-e2fsck/prof_err.h
 e2fsck/tst_crc32
 e2fsck/tst_problem
 e2fsck/tst_refcount
@@ -126,16 +124,11 @@ lib/ext2fs/tst_types
 lib/quota/subdirs
 lib/ss/mk_cmds
 lib/ss/ss.pc
-lib/ss/ss_err.c
-lib/ss/ss_err.h
-lib/ss/std_rqs.c
 lib/ss/subdirs
 lib/ss/test.diff
 lib/ss/test_cmd.c
 lib/ss/test_out
 lib/ss/test_ss
-lib/support/prof_err.c
-lib/support/prof_err.h
 lib/support/subdirs
 lib/uuid/subdirs
 lib/uuid/tst_uuid
@@ -197,8 +190,6 @@ misc/mke2fs.conf.5
 misc/mke2fs.conf
 misc/mklost+found
 misc/mklost+found.8
-misc/prof_err.c
-misc/prof_err.h
 misc/profile.h
 misc/tune2fs
 misc/tune2fs.8
